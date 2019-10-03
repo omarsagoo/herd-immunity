@@ -9,7 +9,7 @@ class Logger(object):
     def __init__(self, file_name):
         # TODO:  Finish this initialization method. The file_name passed should be the
         # full file name of the file that the logs will be written to.
-        self.file_name = None
+        self.file_name = file_name
 
     def write_metadata(self, pop_size, vacc_percentage, virus_name, mortality_rate,
                        basic_repro_num):
@@ -23,7 +23,22 @@ class Logger(object):
         # the 'a' mode to append a new log to the end, since 'w' overwrites the file.
         # NOTE: Make sure to end every line with a '/n' character to ensure that each
         # event logged ends up on a separate line!
-        pass
+        with open(self.file_name, 'w') as file:
+            file.write("_____________Metadata_File_______________\n")
+            file.write(f"{pop_size}\t {vacc_percentage}\t {virus_name}\t {mortality_rate}\t \n")
+            file.write("______________given_stats________________\n")
+            file.write(f"""\n
+                   Population Size: {pop_size},
+            vaccination Percentage: {vacc_percentage*100}%,
+                 Name of the virus: {virus_name},
+           Mortality rate of virus: {mortality_rate*100}%,
+  basic reproduction rate of virus: {basic_repro_num*100}%
+                        \n""")
+            file.write("_____________________________________________")
+            file.close()
+
+
+        
 
     def log_interaction(self, person, random_person, random_person_sick=None,
                         random_person_vacc=None, did_infect=None):
@@ -73,3 +88,6 @@ class Logger(object):
         # new one begins.
         # NOTE: Here is an opportunity for a stretch challenge!
         pass
+
+file1 = Logger('file.txt')
+file1.write_metadata(10,.3,'ebola',.4,.2)
