@@ -62,7 +62,7 @@ def test_not_vacc_person_instantiation():
     assert person.is_alive is True
     assert person.is_vaccinated is False
     assert person.infection is None
-    
+     
 
 
 def test_sick_person_instantiation():
@@ -87,7 +87,6 @@ def test_did_survive_infection():
     if survived == True:
         assert person._id == 4
         assert person.is_alive is True
-        print(person.is_vaccinated)
         assert person.is_vaccinated is True
         assert person.infection == None
         
@@ -97,7 +96,4 @@ def test_did_survive_infection():
         assert person.is_vaccinated is False
         assert person.infection == virus
         
-person = Person(2, False)
-
-print(person.did_survive_infection())
 
