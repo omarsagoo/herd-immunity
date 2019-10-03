@@ -26,8 +26,16 @@ class Person(object):
         Return a boolean value indicating whether they survived the infection.
         '''
         # Only called if infection attribute is not None.
-        # TODO:  Finish this method. Should return a Boolean
-        pass
+       
+        survive = random.randint(0,100)
+        virus_mort_rate = self.infection.mortality_rate 
+        if self.infection != None:
+            if survive >= virus_mort_rate:
+                return self.is_vaccinated == True
+            else:
+                return self.is_vaccinated == False
+        else:
+            return f"There is no virus! "
 
 
 ''' These are simple tests to ensure that you are instantiating your Person class correctly. '''
