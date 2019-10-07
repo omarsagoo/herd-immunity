@@ -83,7 +83,6 @@ def test_did_survive_infection():
     # Resolve whether the Person survives the infection or not
     survived = person.did_survive_infection()
     # Check if the Person survived or not
-    print(survived)
     if survived == True:
         assert person._id == 4
         assert person.is_alive is True

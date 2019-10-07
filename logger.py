@@ -69,7 +69,7 @@ class Logger(object):
         # Append the results of the infection to the logfile
         pass
 
-    def log_time_step(self, time_step_number):
+    def log_time_step(self, time_step_number, sim_data):
         ''' STRETCH CHALLENGE DETAILS:
 
         If you choose to extend this method, the format of the summary statistics logged
@@ -84,10 +84,25 @@ class Logger(object):
         The format of this log should be:
             "Time step {time_step_number} ended, beginning {time_step_number + 1}\n"
         '''
+
         # TODO: Finish this method. This method should log when a time step ends, and a
         # new one begins.
         # NOTE: Here is an opportunity for a stretch challenge!
-        pass
+        next_time_step_number = time_step_number + 1
+        init_dead = sim_data.total_dead 
+        newly_dead = sim_data.total_dead - init_dead
+        init_infected = sim_data.total_infected
+        newly_infected = sim_data.total_infected - init_infected 
+
+        with open(self.file_name, 'a') as file: 
+            file.write(f"Time step {time_step_number} has ended. Time Step {next_time_step_number} is starting.\n")
+            file.write(f"Newly Infected: {sim_data.newly_infected}")
+            file.write(f"Newly Dead: {newly_dead}")
+            file.write(f"Total Infected: {sim_data.total_dead}")
+            file.write(f"{sim_data.total_infected}")
+
+
+
 
 file1 = Logger('file.txt')
 file1.write_metadata(10,.3,'ebola',.4,.2)
