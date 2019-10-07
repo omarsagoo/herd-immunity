@@ -126,6 +126,8 @@ class Simulation(object):
                 increment interaction counter by 1.
             '''
         # TODO: Finish this method.
+        time_step_counter += 1
+        simulation.interaction(1, 100)
         pass
 
     def interaction(self, person, random_person):
@@ -138,6 +140,16 @@ class Simulation(object):
         '''
         # Assert statements are included to make sure that only living people are passed
         # in as params
+        if random_person.is_vaccinated:
+            self.logger.log_interaction(person, random_person, False, True, False)
+        elif randome_person.infection is not None:
+            self.logger.log_interaction(person, random_person, True, False, False)
+        elif random.random()<self.virus.repro_rate:
+            self.newly_infected.append(random_person._id)
+            self.logger.log_interaction(person, random_person, False, False, True)
+        elif:
+            self.logger.log_interaction(person, random_person, False, False, False)
+
         assert person.is_alive == True
         assert random_person.is_alive == True
 
@@ -152,8 +164,8 @@ class Simulation(object):
             #     than repro_rate, random_person's ID should be appended to
             #     Simulation object's newly_infected array, so that their .infected
             #     attribute can be changed to True at the end of the time step.
-        # TODO: Call slogger method during this method.
-        pass
+        # TODO: Call logger method during this method.
+        
 
     def _infect_newly_infected(self):
         ''' This method should iterate through the list of ._id stored in self.newly_infected
