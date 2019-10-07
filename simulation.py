@@ -29,8 +29,6 @@ class Simulation(object):
         All arguments will be passed as command-line arguments when the file is run.
         HINT: Look in the if __name__ == "__main__" function at the bottom.
         '''
-        self.logger = Logger
-        
         # TODO: Create a Logger object and bind it to self.logger.
         # Remember to call the appropriate logger method in the corresponding parts of the simulation.
         # TODO: Call self._create_population() and pass in the correct parameters.
@@ -38,7 +36,8 @@ class Simulation(object):
         # TODO: Store each newly infected person's ID in newly_infected attribute.
         # At the end of each time step, call self._infect_newly_infected()
         # and then reset .newly_infected back to an empty list.
-        self.logger = None
+        self.logger = Logger
+        self._create_population(initial_infected)
         self.population = [] # List of Person objects
         self.pop_size = pop_size # Int
         self.next_person_id = 0 # Int
@@ -51,6 +50,8 @@ class Simulation(object):
         self.file_name = "{}_simulation_pop_{}_vp_{}_infected_{}.txt".format(
             name, pop_size, vacc_percentage, initial_infected)
         self.newly_infected = []
+        self._infect_newly_infected()
+        return self._create_population
 
     def _create_population(self, initial_infected):
         '''This method will create the initial population.
@@ -70,7 +71,11 @@ class Simulation(object):
 
         # Use the attributes created in the init method to create a population that has
         # the correct intial vaccination percentage and initial infected.
-        pass
+        initial_infected = self.initial_infected
+        for _ in self.pop_size:
+            self.population.append(pop_size)
+        return self.population
+
 
     def _simulation_should_continue(self):
         ''' The simulation should only end if the entire population is dead
@@ -80,7 +85,12 @@ class Simulation(object):
                 bool: True for simulation should continue, False if it should end.
         '''
         # TODO: Complete this helper method.  Returns a Boolean.
-        pass
+        if self.pop_size == 0 or self.vacc_percentage = 100:
+            should_continue = False 
+        else:
+            should_continue = True
+        return _simulation_should_continue
+        
 
     def run(self):
         ''' This method should run the simulation until all requirements for ending
@@ -93,15 +103,15 @@ class Simulation(object):
         # TODO: Keep track of the number of time steps that have passed.
         # HINT: You may want to call the logger's log_time_step() method at the end of each time step.
         # TODO: Set this variable using a helper
+         # TODO: for every iteration of this loop, call self.time_step() to compute another
+        # round of this simulation.
         time_step_counter = 0
         should_continue = None
 
-        while should_continue:
-        # TODO: for every iteration of this loop, call self.time_step() to compute another
-        # round of this simulation.
-            pass
-        print(f'The simulation has ended after {time_step_counter} turns.')
-        pass
+        while should_continue = True:
+            self.time_step()
+        return print(f'The simulation has ended after {time_step_counter} turns.')
+        
 
     def time_step(self):
         ''' This method should contain all the logic for computing one time step
