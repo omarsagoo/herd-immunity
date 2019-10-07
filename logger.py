@@ -17,12 +17,7 @@ class Logger(object):
         The simulation class should use this method immediately to log the specific
         parameters of the simulation as the first line of the file.
         '''
-        # TODO: Finish this method. This line of metadata should be tab-delimited
-        # it should create the text file that we will store all logs in.
-        # TIP: Use 'w' mode when you open the file. For all other methods, use
-        # the 'a' mode to append a new log to the end, since 'w' overwrites the file.
-        # NOTE: Make sure to end every line with a '/n' character to ensure that each
-        # event logged ends up on a separate line!
+
         with open(self.file_name, 'w') as file:
             file.write("_____________Metadata_File_______________\n")
             file.write(f"{pop_size}\t {vacc_percentage}\t {virus_name}\t {mortality_rate}\t \n")
@@ -55,7 +50,16 @@ class Logger(object):
         # represent all the possible edge cases. Use the values passed along with each person,
         # along with whether they are sick or vaccinated when they interact to determine
         # exactly what happened in the interaction and create a String, and write to your logfile.
-        pass
+        with open(self.file_name, 'a') as file:
+            file.write("______________")
+            if did_infect == None and random_person.infection != None:
+                file.write(f"Both people were already infected\n")
+            elif person.infection != None and random_person.infection == None:
+                file.write(f"{person._id} infects {random_person._id} because they werent vaccinated \n")
+            elif person.infection == None and random_person.infection != None:
+                file.write(f"{random_person._id} infects {person._id}\n")
+            
+        
 
     def log_infection_survival(self, person, did_die_from_infection):
         ''' The Simulation object uses this method to log the results of every
