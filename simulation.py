@@ -128,7 +128,7 @@ class Simulation(object):
         # TODO: Finish this method.
         time_step_counter += 1
         simulation.interaction(1, 100)
-        pass
+        
 
     def interaction(self, person, random_person):
         '''This method should be called any time two living people are selected for an
@@ -140,6 +140,18 @@ class Simulation(object):
         '''
         # Assert statements are included to make sure that only living people are passed
         # in as params
+                # TODO: Finish this method.
+        #  The possible cases you'll need to cover are listed below:
+            # random_person is vaccinated:
+            #     nothing happens to random person.
+            # random_person is already infected:
+            #     nothing happens to random person.
+            # random_person is healthy, but unvaccinated:
+            #     generate a random number between 0 and 1.  If that number is smaller
+            #     than repro_rate, random_person's ID should be appended to
+            #     Simulation object's newly_infected array, so that their .infected
+            #     attribute can be changed to True at the end of the time step.
+        # TODO: Call logger method during this method.
         if random_person.is_vaccinated:
             self.logger.log_interaction(person, random_person, False, True, False)
         elif randome_person.infection is not None:
@@ -153,19 +165,7 @@ class Simulation(object):
         assert person.is_alive == True
         assert random_person.is_alive == True
 
-        # TODO: Finish this method.
-        #  The possible cases you'll need to cover are listed below:
-            # random_person is vaccinated:
-            #     nothing happens to random person.
-            # random_person is already infected:
-            #     nothing happens to random person.
-            # random_person is healthy, but unvaccinated:
-            #     generate a random number between 0 and 1.  If that number is smaller
-            #     than repro_rate, random_person's ID should be appended to
-            #     Simulation object's newly_infected array, so that their .infected
-            #     attribute can be changed to True at the end of the time step.
-        # TODO: Call logger method during this method.
-        
+
 
     def _infect_newly_infected(self):
         ''' This method should iterate through the list of ._id stored in self.newly_infected
@@ -173,7 +173,13 @@ class Simulation(object):
         # TODO: Call this method at the end of every time step and infect each Person.
         # TODO: Once you have iterated through the entire list of self.newly_infected, remember
         # to reset self.newly_infected back to an empty list.
-        pass
+        
+        for _ self.newly_infected:
+            random_person_sick = True
+        self.newly_infected = []
+
+
+
 
 
 if __name__ == "__main__":
