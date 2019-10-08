@@ -52,13 +52,16 @@ class Logger(object):
         # exactly what happened in the interaction and create a String, and write to your logfile.
         with open(self.file_name, 'a') as file:
             file.write("______________")
-            if did_infect == None and random_person.infection != None:
-                file.write(f"Both people were already infected\n")
-            elif person.infection != None and random_person.infection == None:
-                file.write(f"{person._id} infects {random_person._id} because they werent vaccinated \n")
-            elif person.infection == None and random_person.infection != None:
-                file.write(f"{random_person._id} infects {person._id}\n")
-            
+            if did_infect == None and random_person_vacc == None and random_person_sick == None:
+                file.write(f"Neither {person._id} or {random_person._id} is sick because neither was infected.\n")
+            elif random_person_sick == True and did_infect == None:
+                file.write(f"{person._id} does not infect {random_person._id} because they were already sick. \n")
+            elif did_infect == True and random_person_vacc == True:
+                file.write(f"{random_person._id} does not gets infected by {person._id} because they were vaccinated.\n")
+            elif did_infect == True:
+                file.write(f"{person._id} infects {random_person._id} because they werent vaccinated")
+            file.write("________________")
+            file.close()
         
 
     def log_infection_survival(self, person, did_die_from_infection):
