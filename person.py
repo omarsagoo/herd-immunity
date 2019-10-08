@@ -29,7 +29,7 @@ class Person(object):
        
         survive = random.randint(0,100)
         if self.infection != None:
-            virus_mort_rate = self.infection.mortality_rate 
+            virus_mort_rate = self.infection.mortality_rate * 100 
 
             if survive >= virus_mort_rate:
                 self.is_vaccinated = True

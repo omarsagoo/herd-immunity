@@ -121,14 +121,14 @@ class Simulation(object):
         # TODO: Set this variable using a helper
          # TODO: for every iteration of this loop, call self.time_step() to compute another
         # round of this simulation.
-        should_continue = self._simulation_should_continue()
-        while should_continue == True:
-            self.logger.write_metadata(self.pop_size, self.vacc_percentage, 
-                                        self.virus.name, self.virus.mortality_rate, 
-                                        self.virus.repro_rate)
-            self.time_step()
-            should_continue = self._simulation_should_continue()
-            self.logger.log_time_step(self.time_step_counter, self)
+        # should_continue = self._simulation_should_continue()
+        # while should_continue == True:
+        self.logger.write_metadata(self.pop_size, self.vacc_percentage, 
+                                    self.virus.name, self.virus.mortality_rate, 
+                                    self.virus.repro_rate)
+        self.time_step()
+        # should_continue = self._simulation_should_continue()
+        self.logger.log_time_step(self.time_step_counter, self)
 
         return print(f'The simulation has ended after {self.time_step_counter} turns.')
         
@@ -153,9 +153,10 @@ class Simulation(object):
                     for random_person in self.population:
                         if random_person != person:
                             self.interaction(person, random_person)
-                            print(step)
+                            print(str(step) + " hello step")
                             step += 1
                 self.time_step_counter += 1
+                print(str(self.time_step_counter) + " hello time step counter")
 
     def interaction(self, person, random_person):
         '''This method should be called any time two living people are selected for an
@@ -179,19 +180,30 @@ class Simulation(object):
             #     Simulation object's newly_infected array, so that their .infected
             #     attribute can be changed to True at the end of the time step.
         # TODO: Call logger method during this method.
-        if random_person.is_vaccinated:
-            self.logger.log_interaction(person, random_person, False, True, False)
-        elif random_person.infection is not None:
-            self.logger.log_interaction(person, random_person, True, False, False)
-        elif random_person.infection is None and random_person.is_vaccinated == False:
-            if random.random() < self.virus.repro_rate:
-                self.newly_infected.append(random_person._id)
-                self.logger.log_interaction(person, random_person, False, False, True)
-        else:
-            self.logger.log_interaction(person, random_person, False, False, False)
-
         assert person.is_alive == True
         assert random_person.is_alive == True
+        
+        if person.is_alive == True and random_person.is_alive == True:
+            if person.infection != None:
+                if random_person.is_vaccinated == True:
+                    self.logger.log_interaction(person, random_person, False , True, False)
+                elif random_person.is_vaccinated == False:
+                    if person.infection == None:
+                        self.logger.log_interaction(person, random_person, False, False, False)
+                    elif person.infection != None:
+                        inf_chance = random.randint(0,100) 
+                        if inf_chance <= self.virus.repro_rate * 100:
+                            self.newly_infected.append(random_person._id)
+                            self.logger.log_interaction(person, random_person, True, False, True)
+                            self.current_infected += 1
+                        else:
+                            self.logger.log_interaction(person, random_person, False, False, False)
+        elif person.is_alive == False and random_person.is_alive == True:
+            print(f"{person._id} is dead. (person) ")
+        elif person.is_alive == True and random_person.is_alive == False:
+            print(f"{random_person._id} is dead. (random)")
+        elif person.is_alive == False and random_person.is_alive == False:
+            print("both people are dead. ")
 
     def _infect_newly_infected(self):
         ''' This method should iterate through the list of ._id stored in self.newly_infected
@@ -222,7 +234,7 @@ if __name__ == "__main__":
     #     initial_infected = 1
     print("hello")
     virus = Virus("ebola", .2, .2)
-    sim = Simulation(1000, .4, virus, 1)
+    sim = Simulation(10, .4, virus, 1)
     # sim.test_time_step()
 
     sim.run()

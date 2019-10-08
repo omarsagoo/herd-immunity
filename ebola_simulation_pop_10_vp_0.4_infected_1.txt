@@ -1,0 +1,1636 @@
+_____________Metadata_File_______________
+10	 0.4	 ebola	 0.2	 
+______________given_stats________________
+
+
+                   Population Size: 10,
+            vaccination Percentage: 40.0%,
+                 Name of the virus: ebola,
+           Mortality rate of virus: 20.0%,
+  basic reproduction rate of virus: 20.0%
+                        
+___________________________________________________________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 infects 6dba8a9b-3804-44c9-8ee2-2fb986de4866 because they werent vaccinated
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 infects 945afbc6-7c15-4e97-aa8b-6c843748bdd6 because they werent vaccinated
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 infects 945afbc6-7c15-4e97-aa8b-6c843748bdd6 because they werent vaccinated
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 infects 1f48b5c7-f88c-4a61-b90b-29f078f51712 because they werent vaccinated
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 infects 545ad15f-81bc-475d-9a38-ef6315abc0a3 because they werent vaccinated
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 infects 6dba8a9b-3804-44c9-8ee2-2fb986de4866 because they werent vaccinated
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 infects 945afbc6-7c15-4e97-aa8b-6c843748bdd6 because they werent vaccinated
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 infects 545ad15f-81bc-475d-9a38-ef6315abc0a3 because they werent vaccinated
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 infects 545ad15f-81bc-475d-9a38-ef6315abc0a3 because they werent vaccinated
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 infects 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e because they werent vaccinated
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 infects 945afbc6-7c15-4e97-aa8b-6c843748bdd6 because they werent vaccinated
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 infects 945afbc6-7c15-4e97-aa8b-6c843748bdd6 because they werent vaccinated
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 infects 6dba8a9b-3804-44c9-8ee2-2fb986de4866 because they werent vaccinated
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 infects 945afbc6-7c15-4e97-aa8b-6c843748bdd6 because they werent vaccinated
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 infects 1f48b5c7-f88c-4a61-b90b-29f078f51712 because they werent vaccinated
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 infects 1f48b5c7-f88c-4a61-b90b-29f078f51712 because they werent vaccinated
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither c245aca0-3a86-4648-8778-61ae0944c635 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 infects 545ad15f-81bc-475d-9a38-ef6315abc0a3 because they werent vaccinated
+________________
+______________
+c245aca0-3a86-4648-8778-61ae0944c635 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 infects c245aca0-3a86-4648-8778-61ae0944c635 because they werent vaccinated
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 infects 945afbc6-7c15-4e97-aa8b-6c843748bdd6 because they werent vaccinated
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 infects 545ad15f-81bc-475d-9a38-ef6315abc0a3 because they werent vaccinated
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 infects 945afbc6-7c15-4e97-aa8b-6c843748bdd6 because they werent vaccinated
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 infects 1f48b5c7-f88c-4a61-b90b-29f078f51712 because they werent vaccinated
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 infects 1f48b5c7-f88c-4a61-b90b-29f078f51712 because they werent vaccinated
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 infects 6dba8a9b-3804-44c9-8ee2-2fb986de4866 because they werent vaccinated
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 infects 945afbc6-7c15-4e97-aa8b-6c843748bdd6 because they werent vaccinated
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 infects 945afbc6-7c15-4e97-aa8b-6c843748bdd6 because they werent vaccinated
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 infects 1f48b5c7-f88c-4a61-b90b-29f078f51712 because they werent vaccinated
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 infects 945afbc6-7c15-4e97-aa8b-6c843748bdd6 because they werent vaccinated
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 infects 6dba8a9b-3804-44c9-8ee2-2fb986de4866 because they werent vaccinated
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 infects 545ad15f-81bc-475d-9a38-ef6315abc0a3 because they werent vaccinated
+________________
+______________
+20d7aefb-393f-4e6e-8e9f-6c12d9936b18 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 infects 1f48b5c7-f88c-4a61-b90b-29f078f51712 because they werent vaccinated
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 infects 6dba8a9b-3804-44c9-8ee2-2fb986de4866 because they werent vaccinated
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 infects 545ad15f-81bc-475d-9a38-ef6315abc0a3 because they werent vaccinated
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 infects 1f48b5c7-f88c-4a61-b90b-29f078f51712 because they werent vaccinated
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 infects c245aca0-3a86-4648-8778-61ae0944c635 because they werent vaccinated
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 infects 6dba8a9b-3804-44c9-8ee2-2fb986de4866 because they werent vaccinated
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 infects c245aca0-3a86-4648-8778-61ae0944c635 because they werent vaccinated
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 infects 6dba8a9b-3804-44c9-8ee2-2fb986de4866 because they werent vaccinated
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 infects 1f48b5c7-f88c-4a61-b90b-29f078f51712 because they werent vaccinated
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 infects 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e because they werent vaccinated
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 infects 545ad15f-81bc-475d-9a38-ef6315abc0a3 because they werent vaccinated
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 infects c245aca0-3a86-4648-8778-61ae0944c635 because they werent vaccinated
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 infects 6dba8a9b-3804-44c9-8ee2-2fb986de4866 because they werent vaccinated
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 infects 945afbc6-7c15-4e97-aa8b-6c843748bdd6 because they werent vaccinated
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 infects c245aca0-3a86-4648-8778-61ae0944c635 because they werent vaccinated
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+Neither 7cc3ac12-a5f9-40d8-848c-a938194c8a49 or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 infects 545ad15f-81bc-475d-9a38-ef6315abc0a3 because they werent vaccinated
+________________
+______________
+7cc3ac12-a5f9-40d8-848c-a938194c8a49 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf infects 6dba8a9b-3804-44c9-8ee2-2fb986de4866 because they werent vaccinated
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf infects 945afbc6-7c15-4e97-aa8b-6c843748bdd6 because they werent vaccinated
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf infects 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e because they werent vaccinated
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf infects 545ad15f-81bc-475d-9a38-ef6315abc0a3 because they werent vaccinated
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf infects 1f48b5c7-f88c-4a61-b90b-29f078f51712 because they werent vaccinated
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf infects 6dba8a9b-3804-44c9-8ee2-2fb986de4866 because they werent vaccinated
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf infects c245aca0-3a86-4648-8778-61ae0944c635 because they werent vaccinated
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf infects 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e because they werent vaccinated
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf infects 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e because they werent vaccinated
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf infects 545ad15f-81bc-475d-9a38-ef6315abc0a3 because they werent vaccinated
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf infects c245aca0-3a86-4648-8778-61ae0944c635 because they werent vaccinated
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf infects c245aca0-3a86-4648-8778-61ae0944c635 because they werent vaccinated
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf infects 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e because they werent vaccinated
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf infects 545ad15f-81bc-475d-9a38-ef6315abc0a3 because they werent vaccinated
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf infects c245aca0-3a86-4648-8778-61ae0944c635 because they werent vaccinated
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf infects 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e because they werent vaccinated
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf infects 945afbc6-7c15-4e97-aa8b-6c843748bdd6 because they werent vaccinated
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither da879a84-7853-407e-9c3f-48829b030ecf or f5a1809c-2422-444c-8ebe-1533a6fa8e75 is sick because neither was infected.
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+da879a84-7853-407e-9c3f-48829b030ecf infects 1f48b5c7-f88c-4a61-b90b-29f078f51712 because they werent vaccinated
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 infects 945afbc6-7c15-4e97-aa8b-6c843748bdd6 because they werent vaccinated
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 infects 545ad15f-81bc-475d-9a38-ef6315abc0a3 because they werent vaccinated
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 infects c245aca0-3a86-4648-8778-61ae0944c635 because they werent vaccinated
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 infects 545ad15f-81bc-475d-9a38-ef6315abc0a3 because they werent vaccinated
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 infects 1f48b5c7-f88c-4a61-b90b-29f078f51712 because they werent vaccinated
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 infects 945afbc6-7c15-4e97-aa8b-6c843748bdd6 because they werent vaccinated
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 infects 945afbc6-7c15-4e97-aa8b-6c843748bdd6 because they werent vaccinated
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 infects 945afbc6-7c15-4e97-aa8b-6c843748bdd6 because they werent vaccinated
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 infects c245aca0-3a86-4648-8778-61ae0944c635 because they werent vaccinated
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 infects 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e because they werent vaccinated
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 infects 545ad15f-81bc-475d-9a38-ef6315abc0a3 because they werent vaccinated
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 infects 1f48b5c7-f88c-4a61-b90b-29f078f51712 because they werent vaccinated
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 infects 6dba8a9b-3804-44c9-8ee2-2fb986de4866 because they werent vaccinated
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 infects 1f48b5c7-f88c-4a61-b90b-29f078f51712 because they werent vaccinated
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect c245aca0-3a86-4648-8778-61ae0944c635 becasue the chances of getting sick were too low. 
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or 20d7aefb-393f-4e6e-8e9f-6c12d9936b18 is sick because neither was infected.
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or 7cc3ac12-a5f9-40d8-848c-a938194c8a49 is sick because neither was infected.
+________________
+______________
+Neither f5a1809c-2422-444c-8ebe-1533a6fa8e75 or da879a84-7853-407e-9c3f-48829b030ecf is sick because neither was infected.
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 2a91a6c0-baed-45dd-bcd4-7a7362fa5f9e becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 6dba8a9b-3804-44c9-8ee2-2fb986de4866 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 945afbc6-7c15-4e97-aa8b-6c843748bdd6 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 545ad15f-81bc-475d-9a38-ef6315abc0a3 becasue the chances of getting sick were too low. 
+________________
+______________
+f5a1809c-2422-444c-8ebe-1533a6fa8e75 does not infect 1f48b5c7-f88c-4a61-b90b-29f078f51712 becasue the chances of getting sick were too low. 
+________________
+Time step 10 has ended, beginning time step 11
+number of people Infected: 0
+Newly Dead: 0
+Total Dead: 0
+Total Infected: 1

@@ -33,7 +33,7 @@ class Logger(object):
 
         
 
-    def log_interaction(self, person, random_person, random_person_sick=None,
+    def log_interaction(self, person, random_person, random_person_inf=None,
                         random_person_vacc=None, did_infect=None):
         '''
         The Simulation object should use this method to log every interaction
@@ -50,14 +50,16 @@ class Logger(object):
         # exactly what happened in the interaction and create a String, and write to your logfile.
         with open(self.file_name, 'a') as file:
             file.write("______________\n")
-            if did_infect == False and random_person_vacc == True and random_person_sick == False:
+            if did_infect == False and random_person_vacc == True and random_person_inf == False:
                 file.write(f"Neither {person._id} or {random_person._id} is sick because neither was infected.\n")
-            elif random_person_sick == True and did_infect == None:
+            elif did_infect == False and random_person_vacc == False and random_person_inf == False:
+                file.write(f"{person._id} does not infect {random_person._id} becasue the chances of getting sick were too low. \n")
+            elif random_person_inf == True and did_infect == False:
                 file.write(f"{person._id} does not infect {random_person._id} because they were already sick. \n")
             elif did_infect == True and random_person_vacc == True:
                 file.write(f"{random_person._id} does not gets infected by {person._id} because they were vaccinated.\n")
             elif did_infect == True:
-                file.write(f"{person._id} infects {random_person._id} because they werent vaccinated")
+                file.write(f"{person._id} infects {random_person._id} because they werent vaccinated\n")
             file.write("________________\n")
             file.close()
         
@@ -105,13 +107,9 @@ class Logger(object):
 
         with open(self.file_name, 'a') as file: 
             file.write(f"Time step {time_step_number} has ended, beginning time step {time_step_number + 1}\n")
-            file.write(f"number of people Infected: {newly_infected}")
-            file.write(f"Newly Dead: {newly_dead}")
-            file.write(f"Total Dead: {sim_data.total_dead}")
-            file.write(f"Total Infected: {sim_data.total_infected}")
+            file.write(f"number of people Infected: {newly_infected}\n")
+            file.write(f"Newly Dead: {newly_dead}\n")
+            file.write(f"Total Dead: {sim_data.total_dead}\n")
+            file.write(f"Total Infected: {sim_data.total_infected}\n")
 
 
-
-
-file1 = Logger('file.txt')
-file1.write_metadata(10,.3,'ebola',.4,.2)
