@@ -55,6 +55,7 @@ class Simulation(object):
         self.vacc_pop = []
         self.norm_pop = []
         self.population = self._create_population(initial_infected) 
+        
     def _create_population(self, initial_infected):
         '''This method will create the initial population.
             Args:
