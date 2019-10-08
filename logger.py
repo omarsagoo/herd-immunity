@@ -54,7 +54,7 @@ class Logger(object):
                 file.write(f"Neither {person._id} or {random_person._id} is sick because neither was infected.\n")
             elif did_infect == False and random_person_vacc == False and random_person_inf == False:
                 file.write(f"{person._id} does not infect {random_person._id} becasue the chances of getting sick were too low. \n")
-            elif random_person_inf == True and did_infect == False:
+            elif random_person_inf == True and did_infect == False and random_person_vacc == False:
                 file.write(f"{person._id} does not infect {random_person._id} because they were already sick. \n")
             elif did_infect == True and random_person_vacc == True:
                 file.write(f"{random_person._id} does not gets infected by {person._id} because they were vaccinated.\n")
@@ -111,5 +111,6 @@ class Logger(object):
             file.write(f"Newly Dead: {newly_dead}\n")
             file.write(f"Total Dead: {sim_data.total_dead}\n")
             file.write(f"Total Infected: {sim_data.total_infected}\n")
+            file.write(f"total pop alive: {sim_data.pop_size}")
 
 
