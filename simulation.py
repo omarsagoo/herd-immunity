@@ -220,7 +220,7 @@ if __name__ == "__main__":
     #     initial_infected = int(params[5])
     # else:
     #     initial_infected = 1
-
+    print("hello")
     virus = Virus("ebola", .2, .2)
     sim = Simulation(1000, .4, virus, 1)
     # sim.test_time_step()
