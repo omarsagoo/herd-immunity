@@ -36,22 +36,21 @@ class Simulation(object):
         # TODO: Store each newly infected person's ID in newly_infected attribute.
         # At the end of each time step, call self._infect_newly_infected()
         # and then reset .newly_infected back to an empty list.
-        self.logger = Logger('bleh.txt')
-        # self._create_population = []
-        self.population = [] # List of Person objects
-        self.pop_size = pop_size # Int
-        self.next_person_id = 0 # Int
-        self.virus = virus # Virus object
-        self.initial_infected = initial_infected # Int
-        self.total_infected = 0 # Int
-        self.current_infected = 0 # Int
-        self.vacc_percentage = vacc_percentage # float between 0 and 1
-        self.total_dead = 0 # Int
-        self.file_name = "{}_simulation_pop_{}_vp_{}_infected_{}.txt".format(
-            self.virus.name, pop_size, vacc_percentage, initial_infected)
+
+        self.population = self._create_population(initial_infected) 
+        self.pop_size = pop_size 
+        self.next_person_id = 0 
+        self.virus = virus 
+        self.initial_infected = initial_infected 
+        self.total_infected = initial_infected 
+        self.current_infected = self.initial_infected 
+        self.vacc_percentage = vacc_percentage 
+        self.total_dead = 0 
+        self.total_vacc = int(vacc_percentage*self.pop_size)
+        self.file_name = f"{self.virus.name}_simulation_pop_{pop_size}_vp_{vacc_percentage}_infected_{initial_infected}.txt"
         self.newly_infected = []
         self._infect_newly_infected()
-        # return self._create_population
+        self.logger = Logger(self.file_name)
 
     def _create_population(self, initial_infected):
         '''This method will create the initial population.
