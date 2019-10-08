@@ -1,5 +1,6 @@
 import random, sys
 random.seed(42)
+from uuid import uuid4
 from person import Person
 from logger import Logger
 from virus import Virus
@@ -37,7 +38,6 @@ class Simulation(object):
         # At the end of each time step, call self._infect_newly_infected()
         # and then reset .newly_infected back to an empty list.
 
-        self.population = self._create_population(initial_infected) 
         self.pop_size = pop_size 
         self.next_person_id = 0 
         self.virus = virus 
@@ -51,7 +51,10 @@ class Simulation(object):
         self.newly_infected = []
         self._infect_newly_infected()
         self.logger = Logger(self.file_name)
-
+        self.infected_pop = []
+        self.vacc_pop = []
+        self.norm_pop = []
+        self.population = self._create_population(initial_infected) 
     def _create_population(self, initial_infected):
         '''This method will create the initial population.
             Args:
@@ -70,10 +73,27 @@ class Simulation(object):
 
         # Use the attributes created in the init method to create a population that has
         # the correct intial vaccination percentage and initial infected.
-        self.initial_infected = initial_infected
-        for _ in self.pop_size:
-            self.population.append(pop_size)
-        return self.population
+        population = []
+        for _ in range(initial_infected):
+            infected_person = Person(uuid4(), False, self.virus)
+            population.append(infected_person)
+            self.infected_pop.append(infected_person)
+
+        for _ in range(self.total_vacc):
+            vacc_person = Person(uuid4(), True, self.virus)
+            population.append(vacc_person)
+            self.vacc_pop.append(vacc_person)
+
+        for _ in range(self.pop_size - self.total_vacc - initial_infected):
+            norm_person = Person(uuid4(), False)
+            self.norm_pop.append(norm_person)
+            population.append(norm_person)
+            
+        return population
+        
+
+    
+
 
 
     def _simulation_should_continue(self):
@@ -191,22 +211,22 @@ class Simulation(object):
 
 
 
-if __name__ == "__main__":
-    params = sys.argv[1:]
-    name = str(params[0])
-    repro_rate = float(params[1])
-    mortality_rate = float(params[2])
+# if __name__ == "__main__":
+#     params = sys.argv[1:]
+#     name = str(params[0])
+#     repro_rate = float(params[1])
+#     mortality_rate = float(params[2])
 
-    pop_size = int(params[3])
-    vacc_percentage = float(params[4])
+#     pop_size = int(params[3])
+#     vacc_percentage = float(params[4])
 
-    if len(params) == 6:
-        initial_infected = int(params[5])
-    else:
-        initial_infected = 1
+#     if len(params) == 6:
+#         initial_infected = int(params[5])
+#     else:
+#         initial_infected = 1
 
-    virus = Virus(name, repro_rate, mortality_rate)
-    sim = Simulation(pop_size, vacc_percentage, virus, initial_infected)
-    # sim.test_time_step()
+#     virus = Virus(name, repro_rate, mortality_rate)
+#     sim = Simulation(pop_size, vacc_percentage, virus, initial_infected)
+#     # sim.test_time_step()
 
-    sim.run()
+#     sim.run()
