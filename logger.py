@@ -49,8 +49,8 @@ class Logger(object):
         # along with whether they are sick or vaccinated when they interact to determine
         # exactly what happened in the interaction and create a String, and write to your logfile.
         with open(self.file_name, 'a') as file:
-            file.write("______________")
-            if did_infect == None and random_person_vacc == None and random_person_sick == None:
+            file.write("______________\n")
+            if did_infect == False and random_person_vacc == True and random_person_sick == False:
                 file.write(f"Neither {person._id} or {random_person._id} is sick because neither was infected.\n")
             elif random_person_sick == True and did_infect == None:
                 file.write(f"{person._id} does not infect {random_person._id} because they were already sick. \n")
@@ -58,7 +58,7 @@ class Logger(object):
                 file.write(f"{random_person._id} does not gets infected by {person._id} because they were vaccinated.\n")
             elif did_infect == True:
                 file.write(f"{person._id} infects {random_person._id} because they werent vaccinated")
-            file.write("________________")
+            file.write("________________\n")
             file.close()
         
 
@@ -98,18 +98,17 @@ class Logger(object):
         # TODO: Finish this method. This method should log when a time step ends, and a
         # new one begins.
         # NOTE: Here is an opportunity for a stretch challenge!
-        next_time_step_number = time_step_number + 1
         init_dead = sim_data.total_dead 
         newly_dead = sim_data.total_dead - init_dead
         init_infected = sim_data.total_infected
         newly_infected = sim_data.total_infected - init_infected 
 
         with open(self.file_name, 'a') as file: 
-            file.write(f"Time step {time_step_number} has ended. Time Step {next_time_step_number} is starting.\n")
-            file.write(f"Newly Infected: {sim_data.newly_infected}")
+            file.write(f"Time step {time_step_number} has ended, beginning time step {time_step_number + 1}\n")
+            file.write(f"number of people Infected: {newly_infected}")
             file.write(f"Newly Dead: {newly_dead}")
-            file.write(f"Total Infected: {sim_data.total_dead}")
-            file.write(f"{sim_data.total_infected}")
+            file.write(f"Total Dead: {sim_data.total_dead}")
+            file.write(f"Total Infected: {sim_data.total_infected}")
 
 
 
