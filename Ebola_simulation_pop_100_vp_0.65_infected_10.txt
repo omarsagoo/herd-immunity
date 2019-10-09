@@ -1,0 +1,694 @@
+_____________Metadata_File_______________
+100	 0.65	 Ebola	 0.4	 
+______________given_stats________________
+
+
+                Population Size: 100,
+        vaccination Percentage: 65.0%,
+                Name of the virus: Ebola,
+        Mortality rate of virus: 40.0%,
+basic reproduction rate of virus: 40.0%
+                    
+_____________________________________________
+0194f1b4-6753-4942-99f2-234f319370cc infects 0f5a2791-2a67-4bd5-a650-2612e0020680 because they werent vaccinated
+0194f1b4-6753-4942-99f2-234f319370cc infects 52ecb279-9643-484e-8ca5-52be0a367e35 because they werent vaccinated
+0194f1b4-6753-4942-99f2-234f319370cc does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+0194f1b4-6753-4942-99f2-234f319370cc does not infect 2f65182e-7430-4cc0-a256-e8b38e94e894 because they were already sick. 
+0194f1b4-6753-4942-99f2-234f319370cc infects dada6119-fbf9-4305-9a15-f17c695ff83e because they werent vaccinated
+0194f1b4-6753-4942-99f2-234f319370cc does not infect c05a381a-8879-43a8-b0e8-94cdc61ac926 because they were already sick. 
+0194f1b4-6753-4942-99f2-234f319370cc does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+0194f1b4-6753-4942-99f2-234f319370cc does not infect dada6119-fbf9-4305-9a15-f17c695ff83e because they were already sick. 
+0194f1b4-6753-4942-99f2-234f319370cc does not infect 0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 because they were already sick. 
+0194f1b4-6753-4942-99f2-234f319370cc infects 14b4905d-46b8-4e54-9846-b30ad3d9f551 because they werent vaccinated
+0194f1b4-6753-4942-99f2-234f319370cc infects 674e3732-1309-4898-9d85-01309307e6a9 because they werent vaccinated
+0194f1b4-6753-4942-99f2-234f319370cc does not infect 0f5a2791-2a67-4bd5-a650-2612e0020680 because they were already sick. 
+0194f1b4-6753-4942-99f2-234f319370cc infects 3860e243-fc82-458d-9ae2-3322c8ed7b77 because they werent vaccinated
+0194f1b4-6753-4942-99f2-234f319370cc does not infect dada6119-fbf9-4305-9a15-f17c695ff83e because they were already sick. 
+0194f1b4-6753-4942-99f2-234f319370cc does not infect 0f5a2791-2a67-4bd5-a650-2612e0020680 because they were already sick. 
+0194f1b4-6753-4942-99f2-234f319370cc does not infect 4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 because they were already sick. 
+0194f1b4-6753-4942-99f2-234f319370cc does not infect 0f5a2791-2a67-4bd5-a650-2612e0020680 because they were already sick. 
+0194f1b4-6753-4942-99f2-234f319370cc does not infect 0846f585-e45e-46ec-b12f-993aac87e7c8 because they were already sick. 
+0194f1b4-6753-4942-99f2-234f319370cc does not infect cfc5aef2-9164-422e-a878-e97d374253a4 because they were already sick. 
+0194f1b4-6753-4942-99f2-234f319370cc does not infect a311eef4-1273-410b-bd3c-ae0dd693928a because they were already sick. 
+0194f1b4-6753-4942-99f2-234f319370cc does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+0194f1b4-6753-4942-99f2-234f319370cc survived the infection
+3151be4f-acf0-419b-a9bb-496fbec818f8 infects 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they werent vaccinated
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect 5914f576-b2f0-4c06-8c0d-e8dd33ae134e because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect 0846f585-e45e-46ec-b12f-993aac87e7c8 because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 infects c6f67135-80a9-4416-9d3b-1b0ed876e810 because they werent vaccinated
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect c6f67135-80a9-4416-9d3b-1b0ed876e810 because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect 0846f585-e45e-46ec-b12f-993aac87e7c8 because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 infects 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they werent vaccinated
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect d69ba36e-68f0-4a6a-b008-7159da05c6ae because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect 5914f576-b2f0-4c06-8c0d-e8dd33ae134e because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect 0f5a2791-2a67-4bd5-a650-2612e0020680 because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect dada6119-fbf9-4305-9a15-f17c695ff83e because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect c6f67135-80a9-4416-9d3b-1b0ed876e810 because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect 07ddae31-ccfb-4c8b-831e-2ce5ca98533c because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect 4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect a311eef4-1273-410b-bd3c-ae0dd693928a because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect dada6119-fbf9-4305-9a15-f17c695ff83e because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect 4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect cccd19b3-8f52-4052-a4b8-5d17b2fa409d because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect 3860e243-fc82-458d-9ae2-3322c8ed7b77 because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 does not infect bcf37761-ac9e-4295-86b9-438963a1b86b because they were already sick. 
+3151be4f-acf0-419b-a9bb-496fbec818f8 survived the infection
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect a311eef4-1273-410b-bd3c-ae0dd693928a because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect c05a381a-8879-43a8-b0e8-94cdc61ac926 because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect c05a381a-8879-43a8-b0e8-94cdc61ac926 because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect 19a123cf-440e-49ad-9063-6ad9aaca6eb9 because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect 14b4905d-46b8-4e54-9846-b30ad3d9f551 because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect 5914f576-b2f0-4c06-8c0d-e8dd33ae134e because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect a311eef4-1273-410b-bd3c-ae0dd693928a because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect cfc5aef2-9164-422e-a878-e97d374253a4 because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect 19a123cf-440e-49ad-9063-6ad9aaca6eb9 because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect 3860e243-fc82-458d-9ae2-3322c8ed7b77 because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect 4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect 7b3108f0-46c9-4ff2-81b5-901e838b572b because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect 40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect bcf37761-ac9e-4295-86b9-438963a1b86b because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect d69ba36e-68f0-4a6a-b008-7159da05c6ae because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect 4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect 19a123cf-440e-49ad-9063-6ad9aaca6eb9 because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect 7b3108f0-46c9-4ff2-81b5-901e838b572b because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect bcf37761-ac9e-4295-86b9-438963a1b86b because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect c707af8e-b1a8-45c7-8d30-92c8cd72536e because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect 4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+07ddae31-ccfb-4c8b-831e-2ce5ca98533c died from the infection. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect 7b3108f0-46c9-4ff2-81b5-901e838b572b because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect a311eef4-1273-410b-bd3c-ae0dd693928a because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect c6f67135-80a9-4416-9d3b-1b0ed876e810 because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect a311eef4-1273-410b-bd3c-ae0dd693928a because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect 40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect c6f67135-80a9-4416-9d3b-1b0ed876e810 because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect 0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 infects d7d0560f-46e5-4ffb-ab62-8f341452ac36 because they werent vaccinated
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect 3860e243-fc82-458d-9ae2-3322c8ed7b77 because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect 3860e243-fc82-458d-9ae2-3322c8ed7b77 because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect d69ba36e-68f0-4a6a-b008-7159da05c6ae because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect 19a123cf-440e-49ad-9063-6ad9aaca6eb9 because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect d7d0560f-46e5-4ffb-ab62-8f341452ac36 because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect 19a123cf-440e-49ad-9063-6ad9aaca6eb9 because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect a311eef4-1273-410b-bd3c-ae0dd693928a because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect 14b4905d-46b8-4e54-9846-b30ad3d9f551 because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect bcf37761-ac9e-4295-86b9-438963a1b86b because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect 3860e243-fc82-458d-9ae2-3322c8ed7b77 because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect dada6119-fbf9-4305-9a15-f17c695ff83e because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 does not infect 0846f585-e45e-46ec-b12f-993aac87e7c8 because they were already sick. 
+2f65182e-7430-4cc0-a256-e8b38e94e894 survived the infection
+cfc5aef2-9164-422e-a878-e97d374253a4 does not infect 7b3108f0-46c9-4ff2-81b5-901e838b572b because they were already sick. 
+cfc5aef2-9164-422e-a878-e97d374253a4 does not infect 0f5a2791-2a67-4bd5-a650-2612e0020680 because they were already sick. 
+cfc5aef2-9164-422e-a878-e97d374253a4 does not infect 0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 because they were already sick. 
+cfc5aef2-9164-422e-a878-e97d374253a4 does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+cfc5aef2-9164-422e-a878-e97d374253a4 does not infect 0f5a2791-2a67-4bd5-a650-2612e0020680 because they were already sick. 
+cfc5aef2-9164-422e-a878-e97d374253a4 does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+cfc5aef2-9164-422e-a878-e97d374253a4 does not infect 14b4905d-46b8-4e54-9846-b30ad3d9f551 because they were already sick. 
+cfc5aef2-9164-422e-a878-e97d374253a4 does not infect 19a123cf-440e-49ad-9063-6ad9aaca6eb9 because they were already sick. 
+cfc5aef2-9164-422e-a878-e97d374253a4 does not infect cccd19b3-8f52-4052-a4b8-5d17b2fa409d because they were already sick. 
+cfc5aef2-9164-422e-a878-e97d374253a4 does not infect 0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 because they were already sick. 
+cfc5aef2-9164-422e-a878-e97d374253a4 does not infect 0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 because they were already sick. 
+cfc5aef2-9164-422e-a878-e97d374253a4 does not infect 0846f585-e45e-46ec-b12f-993aac87e7c8 because they were already sick. 
+cfc5aef2-9164-422e-a878-e97d374253a4 does not infect 3860e243-fc82-458d-9ae2-3322c8ed7b77 because they were already sick. 
+cfc5aef2-9164-422e-a878-e97d374253a4 does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+cfc5aef2-9164-422e-a878-e97d374253a4 does not infect d7d0560f-46e5-4ffb-ab62-8f341452ac36 because they were already sick. 
+cfc5aef2-9164-422e-a878-e97d374253a4 does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+cfc5aef2-9164-422e-a878-e97d374253a4 does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+cfc5aef2-9164-422e-a878-e97d374253a4 does not infect 3860e243-fc82-458d-9ae2-3322c8ed7b77 because they were already sick. 
+cfc5aef2-9164-422e-a878-e97d374253a4 does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+cfc5aef2-9164-422e-a878-e97d374253a4 does not infect c707af8e-b1a8-45c7-8d30-92c8cd72536e because they were already sick. 
+cfc5aef2-9164-422e-a878-e97d374253a4 does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+cfc5aef2-9164-422e-a878-e97d374253a4 does not infect a311eef4-1273-410b-bd3c-ae0dd693928a because they were already sick. 
+cfc5aef2-9164-422e-a878-e97d374253a4 does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+cfc5aef2-9164-422e-a878-e97d374253a4 does not infect d69ba36e-68f0-4a6a-b008-7159da05c6ae because they were already sick. 
+cfc5aef2-9164-422e-a878-e97d374253a4 does not infect 40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 because they were already sick. 
+cfc5aef2-9164-422e-a878-e97d374253a4 survived the infection
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect 4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect dada6119-fbf9-4305-9a15-f17c695ff83e because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect 14b4905d-46b8-4e54-9846-b30ad3d9f551 because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect 0846f585-e45e-46ec-b12f-993aac87e7c8 because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect 3860e243-fc82-458d-9ae2-3322c8ed7b77 because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect a311eef4-1273-410b-bd3c-ae0dd693928a because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect 3860e243-fc82-458d-9ae2-3322c8ed7b77 because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect d7d0560f-46e5-4ffb-ab62-8f341452ac36 because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect 3860e243-fc82-458d-9ae2-3322c8ed7b77 because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect c707af8e-b1a8-45c7-8d30-92c8cd72536e because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect 3860e243-fc82-458d-9ae2-3322c8ed7b77 because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect 40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect b9e8d98a-6b98-4d60-aec3-7617b509720e because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect dada6119-fbf9-4305-9a15-f17c695ff83e because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect bcf37761-ac9e-4295-86b9-438963a1b86b because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect 40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect 0f5a2791-2a67-4bd5-a650-2612e0020680 because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect d7d0560f-46e5-4ffb-ab62-8f341452ac36 because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect 40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect b9e8d98a-6b98-4d60-aec3-7617b509720e because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect 19a123cf-440e-49ad-9063-6ad9aaca6eb9 because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 does not infect 5914f576-b2f0-4c06-8c0d-e8dd33ae134e because they were already sick. 
+0e4787f8-e1e9-4b53-a8e0-47a878b2a2a7 died from the infection. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect c707af8e-b1a8-45c7-8d30-92c8cd72536e because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect bcf37761-ac9e-4295-86b9-438963a1b86b because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect cccd19b3-8f52-4052-a4b8-5d17b2fa409d because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect c707af8e-b1a8-45c7-8d30-92c8cd72536e because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect 3860e243-fc82-458d-9ae2-3322c8ed7b77 because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect c6f67135-80a9-4416-9d3b-1b0ed876e810 because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect b9e8d98a-6b98-4d60-aec3-7617b509720e because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect 0f5a2791-2a67-4bd5-a650-2612e0020680 because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect 5914f576-b2f0-4c06-8c0d-e8dd33ae134e because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect 19a123cf-440e-49ad-9063-6ad9aaca6eb9 because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect cccd19b3-8f52-4052-a4b8-5d17b2fa409d because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect 14b4905d-46b8-4e54-9846-b30ad3d9f551 because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect a311eef4-1273-410b-bd3c-ae0dd693928a because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect c707af8e-b1a8-45c7-8d30-92c8cd72536e because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+7b3108f0-46c9-4ff2-81b5-901e838b572b survived the infection
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect dada6119-fbf9-4305-9a15-f17c695ff83e because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect 3860e243-fc82-458d-9ae2-3322c8ed7b77 because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect 40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect d7d0560f-46e5-4ffb-ab62-8f341452ac36 because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect c05a381a-8879-43a8-b0e8-94cdc61ac926 because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect d69ba36e-68f0-4a6a-b008-7159da05c6ae because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect bcf37761-ac9e-4295-86b9-438963a1b86b because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect a311eef4-1273-410b-bd3c-ae0dd693928a because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect bcf37761-ac9e-4295-86b9-438963a1b86b because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect d7d0560f-46e5-4ffb-ab62-8f341452ac36 because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect 3860e243-fc82-458d-9ae2-3322c8ed7b77 because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect c707af8e-b1a8-45c7-8d30-92c8cd72536e because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect dada6119-fbf9-4305-9a15-f17c695ff83e because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect dada6119-fbf9-4305-9a15-f17c695ff83e because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect 40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect 19a123cf-440e-49ad-9063-6ad9aaca6eb9 because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect c05a381a-8879-43a8-b0e8-94cdc61ac926 because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect cccd19b3-8f52-4052-a4b8-5d17b2fa409d because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect 5914f576-b2f0-4c06-8c0d-e8dd33ae134e because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 does not infect c707af8e-b1a8-45c7-8d30-92c8cd72536e because they were already sick. 
+e4bcc6d5-4c11-4fb6-9895-adf6b31eda26 survived the infection
+a311eef4-1273-410b-bd3c-ae0dd693928a does not infect 0846f585-e45e-46ec-b12f-993aac87e7c8 because they were already sick. 
+a311eef4-1273-410b-bd3c-ae0dd693928a does not infect c6f67135-80a9-4416-9d3b-1b0ed876e810 because they were already sick. 
+a311eef4-1273-410b-bd3c-ae0dd693928a does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+a311eef4-1273-410b-bd3c-ae0dd693928a does not infect d69ba36e-68f0-4a6a-b008-7159da05c6ae because they were already sick. 
+a311eef4-1273-410b-bd3c-ae0dd693928a does not infect 0f5a2791-2a67-4bd5-a650-2612e0020680 because they were already sick. 
+a311eef4-1273-410b-bd3c-ae0dd693928a does not infect 14b4905d-46b8-4e54-9846-b30ad3d9f551 because they were already sick. 
+a311eef4-1273-410b-bd3c-ae0dd693928a does not infect 4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 because they were already sick. 
+a311eef4-1273-410b-bd3c-ae0dd693928a does not infect bcf37761-ac9e-4295-86b9-438963a1b86b because they were already sick. 
+a311eef4-1273-410b-bd3c-ae0dd693928a does not infect b9e8d98a-6b98-4d60-aec3-7617b509720e because they were already sick. 
+a311eef4-1273-410b-bd3c-ae0dd693928a does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+a311eef4-1273-410b-bd3c-ae0dd693928a does not infect 4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 because they were already sick. 
+a311eef4-1273-410b-bd3c-ae0dd693928a does not infect c05a381a-8879-43a8-b0e8-94cdc61ac926 because they were already sick. 
+a311eef4-1273-410b-bd3c-ae0dd693928a does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+a311eef4-1273-410b-bd3c-ae0dd693928a does not infect b9e8d98a-6b98-4d60-aec3-7617b509720e because they were already sick. 
+a311eef4-1273-410b-bd3c-ae0dd693928a does not infect 3860e243-fc82-458d-9ae2-3322c8ed7b77 because they were already sick. 
+a311eef4-1273-410b-bd3c-ae0dd693928a does not infect c6f67135-80a9-4416-9d3b-1b0ed876e810 because they were already sick. 
+a311eef4-1273-410b-bd3c-ae0dd693928a does not infect c707af8e-b1a8-45c7-8d30-92c8cd72536e because they were already sick. 
+a311eef4-1273-410b-bd3c-ae0dd693928a does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+a311eef4-1273-410b-bd3c-ae0dd693928a does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+a311eef4-1273-410b-bd3c-ae0dd693928a does not infect cccd19b3-8f52-4052-a4b8-5d17b2fa409d because they were already sick. 
+a311eef4-1273-410b-bd3c-ae0dd693928a does not infect d69ba36e-68f0-4a6a-b008-7159da05c6ae because they were already sick. 
+a311eef4-1273-410b-bd3c-ae0dd693928a does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+a311eef4-1273-410b-bd3c-ae0dd693928a does not infect cccd19b3-8f52-4052-a4b8-5d17b2fa409d because they were already sick. 
+a311eef4-1273-410b-bd3c-ae0dd693928a does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+a311eef4-1273-410b-bd3c-ae0dd693928a does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+a311eef4-1273-410b-bd3c-ae0dd693928a survived the infection
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect c707af8e-b1a8-45c7-8d30-92c8cd72536e because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect cccd19b3-8f52-4052-a4b8-5d17b2fa409d because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect c05a381a-8879-43a8-b0e8-94cdc61ac926 because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect c6f67135-80a9-4416-9d3b-1b0ed876e810 because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect 14b4905d-46b8-4e54-9846-b30ad3d9f551 because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect c707af8e-b1a8-45c7-8d30-92c8cd72536e because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect 0f5a2791-2a67-4bd5-a650-2612e0020680 because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect 5914f576-b2f0-4c06-8c0d-e8dd33ae134e because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect 0846f585-e45e-46ec-b12f-993aac87e7c8 because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect dada6119-fbf9-4305-9a15-f17c695ff83e because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect c6f67135-80a9-4416-9d3b-1b0ed876e810 because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect d7d0560f-46e5-4ffb-ab62-8f341452ac36 because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect c05a381a-8879-43a8-b0e8-94cdc61ac926 because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect d7d0560f-46e5-4ffb-ab62-8f341452ac36 because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect b9e8d98a-6b98-4d60-aec3-7617b509720e because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 does not infect 5914f576-b2f0-4c06-8c0d-e8dd33ae134e because they were already sick. 
+19a123cf-440e-49ad-9063-6ad9aaca6eb9 died from the infection. 
+
+Time step 1 has ended, beginning time step 2
+number of people Infected: 0
+Newly Dead: 0
+Total Dead: 3
+Total Infected: 20
+total Vaccinated: 72
+total pop alive: 97
+
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect cccd19b3-8f52-4052-a4b8-5d17b2fa409d because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect c6f67135-80a9-4416-9d3b-1b0ed876e810 because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect 14b4905d-46b8-4e54-9846-b30ad3d9f551 because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect c707af8e-b1a8-45c7-8d30-92c8cd72536e because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect 0846f585-e45e-46ec-b12f-993aac87e7c8 because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect 5914f576-b2f0-4c06-8c0d-e8dd33ae134e because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect d69ba36e-68f0-4a6a-b008-7159da05c6ae because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect c6f67135-80a9-4416-9d3b-1b0ed876e810 because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect cccd19b3-8f52-4052-a4b8-5d17b2fa409d because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect c707af8e-b1a8-45c7-8d30-92c8cd72536e because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect c6f67135-80a9-4416-9d3b-1b0ed876e810 because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect dada6119-fbf9-4305-9a15-f17c695ff83e because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect 40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect 40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect bcf37761-ac9e-4295-86b9-438963a1b86b because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect 0f5a2791-2a67-4bd5-a650-2612e0020680 because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect 3860e243-fc82-458d-9ae2-3322c8ed7b77 because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect cccd19b3-8f52-4052-a4b8-5d17b2fa409d because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+c05a381a-8879-43a8-b0e8-94cdc61ac926 survived the infection
+c6f67135-80a9-4416-9d3b-1b0ed876e810 does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+c6f67135-80a9-4416-9d3b-1b0ed876e810 does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+c6f67135-80a9-4416-9d3b-1b0ed876e810 does not infect d7d0560f-46e5-4ffb-ab62-8f341452ac36 because they were already sick. 
+c6f67135-80a9-4416-9d3b-1b0ed876e810 does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+c6f67135-80a9-4416-9d3b-1b0ed876e810 does not infect 5914f576-b2f0-4c06-8c0d-e8dd33ae134e because they were already sick. 
+c6f67135-80a9-4416-9d3b-1b0ed876e810 does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+c6f67135-80a9-4416-9d3b-1b0ed876e810 does not infect c707af8e-b1a8-45c7-8d30-92c8cd72536e because they were already sick. 
+c6f67135-80a9-4416-9d3b-1b0ed876e810 does not infect 5914f576-b2f0-4c06-8c0d-e8dd33ae134e because they were already sick. 
+c6f67135-80a9-4416-9d3b-1b0ed876e810 does not infect dada6119-fbf9-4305-9a15-f17c695ff83e because they were already sick. 
+c6f67135-80a9-4416-9d3b-1b0ed876e810 does not infect 14b4905d-46b8-4e54-9846-b30ad3d9f551 because they were already sick. 
+c6f67135-80a9-4416-9d3b-1b0ed876e810 does not infect d69ba36e-68f0-4a6a-b008-7159da05c6ae because they were already sick. 
+c6f67135-80a9-4416-9d3b-1b0ed876e810 does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+c6f67135-80a9-4416-9d3b-1b0ed876e810 does not infect 14b4905d-46b8-4e54-9846-b30ad3d9f551 because they were already sick. 
+c6f67135-80a9-4416-9d3b-1b0ed876e810 does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+c6f67135-80a9-4416-9d3b-1b0ed876e810 does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+c6f67135-80a9-4416-9d3b-1b0ed876e810 does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+c6f67135-80a9-4416-9d3b-1b0ed876e810 does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+c6f67135-80a9-4416-9d3b-1b0ed876e810 does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+c6f67135-80a9-4416-9d3b-1b0ed876e810 does not infect c707af8e-b1a8-45c7-8d30-92c8cd72536e because they were already sick. 
+c6f67135-80a9-4416-9d3b-1b0ed876e810 died from the infection. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect 14b4905d-46b8-4e54-9846-b30ad3d9f551 because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect bcf37761-ac9e-4295-86b9-438963a1b86b because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect bcf37761-ac9e-4295-86b9-438963a1b86b because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect d7d0560f-46e5-4ffb-ab62-8f341452ac36 because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect cccd19b3-8f52-4052-a4b8-5d17b2fa409d because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect bcf37761-ac9e-4295-86b9-438963a1b86b because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect 40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect 5914f576-b2f0-4c06-8c0d-e8dd33ae134e because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect d7d0560f-46e5-4ffb-ab62-8f341452ac36 because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect 5914f576-b2f0-4c06-8c0d-e8dd33ae134e because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect 0846f585-e45e-46ec-b12f-993aac87e7c8 because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect 0f5a2791-2a67-4bd5-a650-2612e0020680 because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect 14b4905d-46b8-4e54-9846-b30ad3d9f551 because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect cccd19b3-8f52-4052-a4b8-5d17b2fa409d because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect 0846f585-e45e-46ec-b12f-993aac87e7c8 because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect b9e8d98a-6b98-4d60-aec3-7617b509720e because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect d7d0560f-46e5-4ffb-ab62-8f341452ac36 because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect 0846f585-e45e-46ec-b12f-993aac87e7c8 because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e does not infect 0f5a2791-2a67-4bd5-a650-2612e0020680 because they were already sick. 
+dada6119-fbf9-4305-9a15-f17c695ff83e survived the infection
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect 40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect 0f5a2791-2a67-4bd5-a650-2612e0020680 because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect cccd19b3-8f52-4052-a4b8-5d17b2fa409d because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect c707af8e-b1a8-45c7-8d30-92c8cd72536e because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect 0846f585-e45e-46ec-b12f-993aac87e7c8 because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect 0f5a2791-2a67-4bd5-a650-2612e0020680 because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect d7d0560f-46e5-4ffb-ab62-8f341452ac36 because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect 40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect 0846f585-e45e-46ec-b12f-993aac87e7c8 because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect 5914f576-b2f0-4c06-8c0d-e8dd33ae134e because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect 5914f576-b2f0-4c06-8c0d-e8dd33ae134e because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect d69ba36e-68f0-4a6a-b008-7159da05c6ae because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect 4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect 40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e does not infect 40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 because they were already sick. 
+b9e8d98a-6b98-4d60-aec3-7617b509720e died from the infection. 
+d7d0560f-46e5-4ffb-ab62-8f341452ac36 does not infect 40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 because they were already sick. 
+d7d0560f-46e5-4ffb-ab62-8f341452ac36 does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+d7d0560f-46e5-4ffb-ab62-8f341452ac36 does not infect 40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 because they were already sick. 
+d7d0560f-46e5-4ffb-ab62-8f341452ac36 does not infect 0f5a2791-2a67-4bd5-a650-2612e0020680 because they were already sick. 
+d7d0560f-46e5-4ffb-ab62-8f341452ac36 does not infect 40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 because they were already sick. 
+d7d0560f-46e5-4ffb-ab62-8f341452ac36 does not infect d69ba36e-68f0-4a6a-b008-7159da05c6ae because they were already sick. 
+d7d0560f-46e5-4ffb-ab62-8f341452ac36 does not infect 0f5a2791-2a67-4bd5-a650-2612e0020680 because they were already sick. 
+d7d0560f-46e5-4ffb-ab62-8f341452ac36 does not infect c707af8e-b1a8-45c7-8d30-92c8cd72536e because they were already sick. 
+d7d0560f-46e5-4ffb-ab62-8f341452ac36 does not infect bcf37761-ac9e-4295-86b9-438963a1b86b because they were already sick. 
+d7d0560f-46e5-4ffb-ab62-8f341452ac36 does not infect 3860e243-fc82-458d-9ae2-3322c8ed7b77 because they were already sick. 
+d7d0560f-46e5-4ffb-ab62-8f341452ac36 does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+d7d0560f-46e5-4ffb-ab62-8f341452ac36 does not infect c707af8e-b1a8-45c7-8d30-92c8cd72536e because they were already sick. 
+d7d0560f-46e5-4ffb-ab62-8f341452ac36 does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+d7d0560f-46e5-4ffb-ab62-8f341452ac36 does not infect 4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 because they were already sick. 
+d7d0560f-46e5-4ffb-ab62-8f341452ac36 does not infect bcf37761-ac9e-4295-86b9-438963a1b86b because they were already sick. 
+d7d0560f-46e5-4ffb-ab62-8f341452ac36 does not infect cccd19b3-8f52-4052-a4b8-5d17b2fa409d because they were already sick. 
+d7d0560f-46e5-4ffb-ab62-8f341452ac36 does not infect 0846f585-e45e-46ec-b12f-993aac87e7c8 because they were already sick. 
+d7d0560f-46e5-4ffb-ab62-8f341452ac36 does not infect d69ba36e-68f0-4a6a-b008-7159da05c6ae because they were already sick. 
+d7d0560f-46e5-4ffb-ab62-8f341452ac36 does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+d7d0560f-46e5-4ffb-ab62-8f341452ac36 does not infect d69ba36e-68f0-4a6a-b008-7159da05c6ae because they were already sick. 
+d7d0560f-46e5-4ffb-ab62-8f341452ac36 does not infect 0f5a2791-2a67-4bd5-a650-2612e0020680 because they were already sick. 
+d7d0560f-46e5-4ffb-ab62-8f341452ac36 does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+d7d0560f-46e5-4ffb-ab62-8f341452ac36 does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+d7d0560f-46e5-4ffb-ab62-8f341452ac36 died from the infection. 
+5914f576-b2f0-4c06-8c0d-e8dd33ae134e does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+5914f576-b2f0-4c06-8c0d-e8dd33ae134e does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+5914f576-b2f0-4c06-8c0d-e8dd33ae134e does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+5914f576-b2f0-4c06-8c0d-e8dd33ae134e does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+5914f576-b2f0-4c06-8c0d-e8dd33ae134e does not infect 4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 because they were already sick. 
+5914f576-b2f0-4c06-8c0d-e8dd33ae134e does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+5914f576-b2f0-4c06-8c0d-e8dd33ae134e does not infect d69ba36e-68f0-4a6a-b008-7159da05c6ae because they were already sick. 
+5914f576-b2f0-4c06-8c0d-e8dd33ae134e does not infect 0846f585-e45e-46ec-b12f-993aac87e7c8 because they were already sick. 
+5914f576-b2f0-4c06-8c0d-e8dd33ae134e does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+5914f576-b2f0-4c06-8c0d-e8dd33ae134e does not infect 0f5a2791-2a67-4bd5-a650-2612e0020680 because they were already sick. 
+5914f576-b2f0-4c06-8c0d-e8dd33ae134e does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+5914f576-b2f0-4c06-8c0d-e8dd33ae134e does not infect c707af8e-b1a8-45c7-8d30-92c8cd72536e because they were already sick. 
+5914f576-b2f0-4c06-8c0d-e8dd33ae134e does not infect bcf37761-ac9e-4295-86b9-438963a1b86b because they were already sick. 
+5914f576-b2f0-4c06-8c0d-e8dd33ae134e does not infect bcf37761-ac9e-4295-86b9-438963a1b86b because they were already sick. 
+5914f576-b2f0-4c06-8c0d-e8dd33ae134e does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+5914f576-b2f0-4c06-8c0d-e8dd33ae134e does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+5914f576-b2f0-4c06-8c0d-e8dd33ae134e does not infect 4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 because they were already sick. 
+5914f576-b2f0-4c06-8c0d-e8dd33ae134e does not infect 3860e243-fc82-458d-9ae2-3322c8ed7b77 because they were already sick. 
+5914f576-b2f0-4c06-8c0d-e8dd33ae134e does not infect 0846f585-e45e-46ec-b12f-993aac87e7c8 because they were already sick. 
+5914f576-b2f0-4c06-8c0d-e8dd33ae134e survived the infection
+0f5a2791-2a67-4bd5-a650-2612e0020680 does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+0f5a2791-2a67-4bd5-a650-2612e0020680 does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+0f5a2791-2a67-4bd5-a650-2612e0020680 does not infect 3860e243-fc82-458d-9ae2-3322c8ed7b77 because they were already sick. 
+0f5a2791-2a67-4bd5-a650-2612e0020680 does not infect 3860e243-fc82-458d-9ae2-3322c8ed7b77 because they were already sick. 
+0f5a2791-2a67-4bd5-a650-2612e0020680 does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+0f5a2791-2a67-4bd5-a650-2612e0020680 does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+0f5a2791-2a67-4bd5-a650-2612e0020680 does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+0f5a2791-2a67-4bd5-a650-2612e0020680 does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+0f5a2791-2a67-4bd5-a650-2612e0020680 does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+0f5a2791-2a67-4bd5-a650-2612e0020680 does not infect 40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 because they were already sick. 
+0f5a2791-2a67-4bd5-a650-2612e0020680 does not infect d69ba36e-68f0-4a6a-b008-7159da05c6ae because they were already sick. 
+0f5a2791-2a67-4bd5-a650-2612e0020680 does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+0f5a2791-2a67-4bd5-a650-2612e0020680 does not infect cccd19b3-8f52-4052-a4b8-5d17b2fa409d because they were already sick. 
+0f5a2791-2a67-4bd5-a650-2612e0020680 does not infect c707af8e-b1a8-45c7-8d30-92c8cd72536e because they were already sick. 
+0f5a2791-2a67-4bd5-a650-2612e0020680 does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+0f5a2791-2a67-4bd5-a650-2612e0020680 does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+0f5a2791-2a67-4bd5-a650-2612e0020680 does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+0f5a2791-2a67-4bd5-a650-2612e0020680 does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+0f5a2791-2a67-4bd5-a650-2612e0020680 does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+0f5a2791-2a67-4bd5-a650-2612e0020680 does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+0f5a2791-2a67-4bd5-a650-2612e0020680 does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+0f5a2791-2a67-4bd5-a650-2612e0020680 does not infect 40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 because they were already sick. 
+0f5a2791-2a67-4bd5-a650-2612e0020680 does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+0f5a2791-2a67-4bd5-a650-2612e0020680 died from the infection. 
+d69ba36e-68f0-4a6a-b008-7159da05c6ae does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+d69ba36e-68f0-4a6a-b008-7159da05c6ae does not infect 40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 because they were already sick. 
+d69ba36e-68f0-4a6a-b008-7159da05c6ae does not infect 40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 because they were already sick. 
+d69ba36e-68f0-4a6a-b008-7159da05c6ae does not infect 3860e243-fc82-458d-9ae2-3322c8ed7b77 because they were already sick. 
+d69ba36e-68f0-4a6a-b008-7159da05c6ae does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+d69ba36e-68f0-4a6a-b008-7159da05c6ae does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+d69ba36e-68f0-4a6a-b008-7159da05c6ae does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+d69ba36e-68f0-4a6a-b008-7159da05c6ae does not infect 14b4905d-46b8-4e54-9846-b30ad3d9f551 because they were already sick. 
+d69ba36e-68f0-4a6a-b008-7159da05c6ae does not infect 3860e243-fc82-458d-9ae2-3322c8ed7b77 because they were already sick. 
+d69ba36e-68f0-4a6a-b008-7159da05c6ae does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+d69ba36e-68f0-4a6a-b008-7159da05c6ae does not infect 14b4905d-46b8-4e54-9846-b30ad3d9f551 because they were already sick. 
+d69ba36e-68f0-4a6a-b008-7159da05c6ae does not infect cccd19b3-8f52-4052-a4b8-5d17b2fa409d because they were already sick. 
+d69ba36e-68f0-4a6a-b008-7159da05c6ae does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+d69ba36e-68f0-4a6a-b008-7159da05c6ae does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+d69ba36e-68f0-4a6a-b008-7159da05c6ae does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+d69ba36e-68f0-4a6a-b008-7159da05c6ae does not infect 4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 because they were already sick. 
+d69ba36e-68f0-4a6a-b008-7159da05c6ae does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+d69ba36e-68f0-4a6a-b008-7159da05c6ae does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+d69ba36e-68f0-4a6a-b008-7159da05c6ae does not infect bcf37761-ac9e-4295-86b9-438963a1b86b because they were already sick. 
+d69ba36e-68f0-4a6a-b008-7159da05c6ae died from the infection. 
+bcf37761-ac9e-4295-86b9-438963a1b86b does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+bcf37761-ac9e-4295-86b9-438963a1b86b does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+bcf37761-ac9e-4295-86b9-438963a1b86b does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+bcf37761-ac9e-4295-86b9-438963a1b86b does not infect 0846f585-e45e-46ec-b12f-993aac87e7c8 because they were already sick. 
+bcf37761-ac9e-4295-86b9-438963a1b86b does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+bcf37761-ac9e-4295-86b9-438963a1b86b does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+bcf37761-ac9e-4295-86b9-438963a1b86b does not infect 14b4905d-46b8-4e54-9846-b30ad3d9f551 because they were already sick. 
+bcf37761-ac9e-4295-86b9-438963a1b86b does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+bcf37761-ac9e-4295-86b9-438963a1b86b does not infect 40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 because they were already sick. 
+bcf37761-ac9e-4295-86b9-438963a1b86b does not infect 40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 because they were already sick. 
+bcf37761-ac9e-4295-86b9-438963a1b86b does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+bcf37761-ac9e-4295-86b9-438963a1b86b does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+bcf37761-ac9e-4295-86b9-438963a1b86b does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+bcf37761-ac9e-4295-86b9-438963a1b86b does not infect c707af8e-b1a8-45c7-8d30-92c8cd72536e because they were already sick. 
+bcf37761-ac9e-4295-86b9-438963a1b86b does not infect 674e3732-1309-4898-9d85-01309307e6a9 because they were already sick. 
+bcf37761-ac9e-4295-86b9-438963a1b86b does not infect 14b4905d-46b8-4e54-9846-b30ad3d9f551 because they were already sick. 
+bcf37761-ac9e-4295-86b9-438963a1b86b died from the infection. 
+674e3732-1309-4898-9d85-01309307e6a9 does not infect 3860e243-fc82-458d-9ae2-3322c8ed7b77 because they were already sick. 
+674e3732-1309-4898-9d85-01309307e6a9 does not infect c707af8e-b1a8-45c7-8d30-92c8cd72536e because they were already sick. 
+674e3732-1309-4898-9d85-01309307e6a9 does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+674e3732-1309-4898-9d85-01309307e6a9 does not infect 0846f585-e45e-46ec-b12f-993aac87e7c8 because they were already sick. 
+674e3732-1309-4898-9d85-01309307e6a9 does not infect 3860e243-fc82-458d-9ae2-3322c8ed7b77 because they were already sick. 
+674e3732-1309-4898-9d85-01309307e6a9 does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+674e3732-1309-4898-9d85-01309307e6a9 does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+674e3732-1309-4898-9d85-01309307e6a9 does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+674e3732-1309-4898-9d85-01309307e6a9 does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+674e3732-1309-4898-9d85-01309307e6a9 does not infect cccd19b3-8f52-4052-a4b8-5d17b2fa409d because they were already sick. 
+674e3732-1309-4898-9d85-01309307e6a9 does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+674e3732-1309-4898-9d85-01309307e6a9 does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+674e3732-1309-4898-9d85-01309307e6a9 does not infect 40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 because they were already sick. 
+674e3732-1309-4898-9d85-01309307e6a9 does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+674e3732-1309-4898-9d85-01309307e6a9 does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+674e3732-1309-4898-9d85-01309307e6a9 does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+674e3732-1309-4898-9d85-01309307e6a9 does not infect 40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 because they were already sick. 
+674e3732-1309-4898-9d85-01309307e6a9 does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+674e3732-1309-4898-9d85-01309307e6a9 does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+674e3732-1309-4898-9d85-01309307e6a9 does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+674e3732-1309-4898-9d85-01309307e6a9 does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+674e3732-1309-4898-9d85-01309307e6a9 survived the infection
+3860e243-fc82-458d-9ae2-3322c8ed7b77 does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+3860e243-fc82-458d-9ae2-3322c8ed7b77 does not infect c707af8e-b1a8-45c7-8d30-92c8cd72536e because they were already sick. 
+3860e243-fc82-458d-9ae2-3322c8ed7b77 does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+3860e243-fc82-458d-9ae2-3322c8ed7b77 does not infect 14b4905d-46b8-4e54-9846-b30ad3d9f551 because they were already sick. 
+3860e243-fc82-458d-9ae2-3322c8ed7b77 does not infect 4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 because they were already sick. 
+3860e243-fc82-458d-9ae2-3322c8ed7b77 does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+3860e243-fc82-458d-9ae2-3322c8ed7b77 does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+3860e243-fc82-458d-9ae2-3322c8ed7b77 does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+3860e243-fc82-458d-9ae2-3322c8ed7b77 does not infect 4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 because they were already sick. 
+3860e243-fc82-458d-9ae2-3322c8ed7b77 does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+3860e243-fc82-458d-9ae2-3322c8ed7b77 does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+3860e243-fc82-458d-9ae2-3322c8ed7b77 does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+3860e243-fc82-458d-9ae2-3322c8ed7b77 does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+3860e243-fc82-458d-9ae2-3322c8ed7b77 does not infect 0846f585-e45e-46ec-b12f-993aac87e7c8 because they were already sick. 
+3860e243-fc82-458d-9ae2-3322c8ed7b77 does not infect c707af8e-b1a8-45c7-8d30-92c8cd72536e because they were already sick. 
+3860e243-fc82-458d-9ae2-3322c8ed7b77 survived the infection
+40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 does not infect cccd19b3-8f52-4052-a4b8-5d17b2fa409d because they were already sick. 
+40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 does not infect 4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 because they were already sick. 
+40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 does not infect cccd19b3-8f52-4052-a4b8-5d17b2fa409d because they were already sick. 
+40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 does not infect 4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 because they were already sick. 
+40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+40c3b8ff-3ea3-4b54-b0df-80a0d6ef9691 died from the infection. 
+0846f585-e45e-46ec-b12f-993aac87e7c8 does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+0846f585-e45e-46ec-b12f-993aac87e7c8 does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+0846f585-e45e-46ec-b12f-993aac87e7c8 does not infect 14b4905d-46b8-4e54-9846-b30ad3d9f551 because they were already sick. 
+0846f585-e45e-46ec-b12f-993aac87e7c8 does not infect cccd19b3-8f52-4052-a4b8-5d17b2fa409d because they were already sick. 
+0846f585-e45e-46ec-b12f-993aac87e7c8 does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+0846f585-e45e-46ec-b12f-993aac87e7c8 does not infect 14b4905d-46b8-4e54-9846-b30ad3d9f551 because they were already sick. 
+0846f585-e45e-46ec-b12f-993aac87e7c8 does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+0846f585-e45e-46ec-b12f-993aac87e7c8 does not infect 14b4905d-46b8-4e54-9846-b30ad3d9f551 because they were already sick. 
+0846f585-e45e-46ec-b12f-993aac87e7c8 does not infect c707af8e-b1a8-45c7-8d30-92c8cd72536e because they were already sick. 
+0846f585-e45e-46ec-b12f-993aac87e7c8 does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+0846f585-e45e-46ec-b12f-993aac87e7c8 does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+0846f585-e45e-46ec-b12f-993aac87e7c8 does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+0846f585-e45e-46ec-b12f-993aac87e7c8 does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+0846f585-e45e-46ec-b12f-993aac87e7c8 does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+0846f585-e45e-46ec-b12f-993aac87e7c8 does not infect 14b4905d-46b8-4e54-9846-b30ad3d9f551 because they were already sick. 
+0846f585-e45e-46ec-b12f-993aac87e7c8 survived the infection
+cccd19b3-8f52-4052-a4b8-5d17b2fa409d does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+cccd19b3-8f52-4052-a4b8-5d17b2fa409d does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+cccd19b3-8f52-4052-a4b8-5d17b2fa409d does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+cccd19b3-8f52-4052-a4b8-5d17b2fa409d does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+cccd19b3-8f52-4052-a4b8-5d17b2fa409d does not infect 4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 because they were already sick. 
+cccd19b3-8f52-4052-a4b8-5d17b2fa409d does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+cccd19b3-8f52-4052-a4b8-5d17b2fa409d does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+cccd19b3-8f52-4052-a4b8-5d17b2fa409d does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+cccd19b3-8f52-4052-a4b8-5d17b2fa409d survived the infection
+c707af8e-b1a8-45c7-8d30-92c8cd72536e does not infect 4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 because they were already sick. 
+c707af8e-b1a8-45c7-8d30-92c8cd72536e does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+c707af8e-b1a8-45c7-8d30-92c8cd72536e does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+c707af8e-b1a8-45c7-8d30-92c8cd72536e does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+c707af8e-b1a8-45c7-8d30-92c8cd72536e does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+c707af8e-b1a8-45c7-8d30-92c8cd72536e does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+c707af8e-b1a8-45c7-8d30-92c8cd72536e does not infect 14b4905d-46b8-4e54-9846-b30ad3d9f551 because they were already sick. 
+c707af8e-b1a8-45c7-8d30-92c8cd72536e does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+c707af8e-b1a8-45c7-8d30-92c8cd72536e does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+c707af8e-b1a8-45c7-8d30-92c8cd72536e does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+c707af8e-b1a8-45c7-8d30-92c8cd72536e does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+c707af8e-b1a8-45c7-8d30-92c8cd72536e does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+c707af8e-b1a8-45c7-8d30-92c8cd72536e died from the infection. 
+14b4905d-46b8-4e54-9846-b30ad3d9f551 does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+14b4905d-46b8-4e54-9846-b30ad3d9f551 does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+14b4905d-46b8-4e54-9846-b30ad3d9f551 does not infect 4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 because they were already sick. 
+14b4905d-46b8-4e54-9846-b30ad3d9f551 does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+14b4905d-46b8-4e54-9846-b30ad3d9f551 does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+14b4905d-46b8-4e54-9846-b30ad3d9f551 does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+14b4905d-46b8-4e54-9846-b30ad3d9f551 does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+14b4905d-46b8-4e54-9846-b30ad3d9f551 does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+14b4905d-46b8-4e54-9846-b30ad3d9f551 does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+14b4905d-46b8-4e54-9846-b30ad3d9f551 does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+14b4905d-46b8-4e54-9846-b30ad3d9f551 does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+14b4905d-46b8-4e54-9846-b30ad3d9f551 does not infect 3474449b-133c-43eb-ae8c-3d9aa29d194a because they were already sick. 
+14b4905d-46b8-4e54-9846-b30ad3d9f551 survived the infection
+3474449b-133c-43eb-ae8c-3d9aa29d194a does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+3474449b-133c-43eb-ae8c-3d9aa29d194a does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+3474449b-133c-43eb-ae8c-3d9aa29d194a does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+3474449b-133c-43eb-ae8c-3d9aa29d194a does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+3474449b-133c-43eb-ae8c-3d9aa29d194a does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+3474449b-133c-43eb-ae8c-3d9aa29d194a does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+3474449b-133c-43eb-ae8c-3d9aa29d194a does not infect 4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 because they were already sick. 
+3474449b-133c-43eb-ae8c-3d9aa29d194a does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+3474449b-133c-43eb-ae8c-3d9aa29d194a does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+3474449b-133c-43eb-ae8c-3d9aa29d194a does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+3474449b-133c-43eb-ae8c-3d9aa29d194a does not infect 35fc3bb2-3062-4bbb-aa6e-1204a6163c0e because they were already sick. 
+3474449b-133c-43eb-ae8c-3d9aa29d194a died from the infection. 
+35fc3bb2-3062-4bbb-aa6e-1204a6163c0e does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+35fc3bb2-3062-4bbb-aa6e-1204a6163c0e does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+35fc3bb2-3062-4bbb-aa6e-1204a6163c0e does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+35fc3bb2-3062-4bbb-aa6e-1204a6163c0e does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+35fc3bb2-3062-4bbb-aa6e-1204a6163c0e does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+35fc3bb2-3062-4bbb-aa6e-1204a6163c0e does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+35fc3bb2-3062-4bbb-aa6e-1204a6163c0e does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+35fc3bb2-3062-4bbb-aa6e-1204a6163c0e does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+35fc3bb2-3062-4bbb-aa6e-1204a6163c0e does not infect 4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 because they were already sick. 
+35fc3bb2-3062-4bbb-aa6e-1204a6163c0e survived the infection
+4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 does not infect 52ecb279-9643-484e-8ca5-52be0a367e35 because they were already sick. 
+4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+4125ade7-b65d-4dda-bfa6-08fd0adcf8e8 survived the infection
+52ecb279-9643-484e-8ca5-52be0a367e35 does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+52ecb279-9643-484e-8ca5-52be0a367e35 does not infect e2ed1c82-956b-4c7f-9b89-c3f70c65d003 because they were already sick. 
+52ecb279-9643-484e-8ca5-52be0a367e35 does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+52ecb279-9643-484e-8ca5-52be0a367e35 does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+52ecb279-9643-484e-8ca5-52be0a367e35 does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+52ecb279-9643-484e-8ca5-52be0a367e35 does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+52ecb279-9643-484e-8ca5-52be0a367e35 survived the infection
+e2ed1c82-956b-4c7f-9b89-c3f70c65d003 does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+e2ed1c82-956b-4c7f-9b89-c3f70c65d003 does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+e2ed1c82-956b-4c7f-9b89-c3f70c65d003 does not infect 9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 because they were already sick. 
+e2ed1c82-956b-4c7f-9b89-c3f70c65d003 survived the infection
+9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 does not infect 7c458382-f530-441e-8060-b8a2b7d0c638 because they were already sick. 
+9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 does not infect 5631a758-44da-434b-bd25-472e3f279421 because they were already sick. 
+9d1f04b8-bdb5-481e-aa0b-72e6fff08f29 survived the infection
+7c458382-f530-441e-8060-b8a2b7d0c638 does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+7c458382-f530-441e-8060-b8a2b7d0c638 does not infect 6d31eeff-0ab9-4fef-9457-3286237837c0 because they were already sick. 
+7c458382-f530-441e-8060-b8a2b7d0c638 died from the infection. 
+6d31eeff-0ab9-4fef-9457-3286237837c0 survived the infection
+5631a758-44da-434b-bd25-472e3f279421 died from the infection. 
+
+Time step 2 has ended, beginning time step 3
+number of people Infected: 0
+Newly Dead: 0
+Total Dead: 14
+Total Infected: 20
+total Vaccinated: 86
+total pop alive: 86
+
