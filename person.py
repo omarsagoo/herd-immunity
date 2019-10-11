@@ -62,7 +62,7 @@ def test_not_vacc_person_instantiation():
     assert person.is_alive is True
     assert person.is_vaccinated is False
     assert person.infection is None
-     
+
 
 
 def test_sick_person_instantiation():
@@ -94,5 +94,30 @@ def test_did_survive_infection():
         assert person._id == 4
         assert person.is_vaccinated is False
         assert person.infection == virus
+
+def test_not_vacc_person_2():
+    person = Person(1, False)
+    assert person._id == 1
+    assert person.is_alive is True
+    assert person.is_vaccinated is False
+    assert person.infection is None
+
+    def test_not_vacc_person_3():
+        person = Person(5, True)
+        assert person._id == 5
+        assert person.is_alive is False
+        assert person.is_vaccinated is True
+        assert person.infection is not None
+
+def test_sick_person_2():
+    # Create a Virus object to give a Person object an infection
+    virus = Virus("Dysentery", 0.7, 0.2)
+    # Create a Person object and give them the virus infection
+    person = Person(3, False, virus)
+    assert person._id == 3
+    assert person.is_alive is True
+    assert person.is_vaccinated is False
+    assert person.infection == virus
+
         
 

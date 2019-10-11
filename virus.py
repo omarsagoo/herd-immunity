@@ -14,3 +14,20 @@ def test_virus_instantiation():
     assert virus.name == "HIV"
     assert virus.repro_rate == 0.8
     assert virus.mortality_rate == 0.3
+
+def test_virus_instantiation_2():
+    '''Check to make sure that the virus instantiator is working.'''
+    virus = Virus("Ebola", 0.7, 0.2)
+    assert virus.name == "Ebola"
+    assert virus.repro_rate == 0.7
+    assert virus.mortality_rate == 0.2
+
+def test_virus_instantiation_3():
+    '''Check to make sure that the virus instantiator is working.'''
+    virus = Virus("Black Plague", 0.9, 0.1)
+    assert virus.name == "Black Plague"
+    assert virus.repro_rate == 0.9
+    assert virus.mortality_rate == 0.1
+
+
+
