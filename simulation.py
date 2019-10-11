@@ -88,6 +88,9 @@ class Simulation(object):
             population.append(norm_person)
             
         return population
+
+        def test_create_population():
+            assert Population()
         
 
     def _simulation_should_continue(self):
@@ -223,8 +226,6 @@ class Simulation(object):
                 person.infection = self.virus
         
         self.newly_infected = []
-
-
 
 
 
