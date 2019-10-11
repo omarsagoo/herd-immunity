@@ -98,12 +98,15 @@ def test_not_vacc_person_2():
     assert person.is_vaccinated is False
     assert person.infection is None
 
-    def test_not_vacc_person_3():
-        person = Person(5, True)
-        assert person._id == 5
-        assert person.is_alive is False
-        assert person.is_vaccinated is True
-        assert person.infection is not None
+def test_not_vacc_person_3():
+    person = Person(5, True)
+    assert person._id == 5
+    assert person.is_alive is True
+    person.is_alive = False
+    assert person.is_alive is False
+
+    assert person.is_vaccinated is True
+    assert person.infection is None
 
 def test_sick_person_2():
     # Create a Virus object to give a Person object an infection
