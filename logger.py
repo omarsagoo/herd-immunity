@@ -13,22 +13,22 @@ class Logger(object):
                        basic_repro_num):
         '''
         The simulation class should use this method immediately to log the specific
-        parameters of the simulation as the first line of the file.
+        parameters of the simulation as the first line of the log_file
         '''
 
-        with open(self.file_name, 'w') as file:
-            file.write("_____________Metadata_File_______________\n")
-            file.write(f"{pop_size}\t {vacc_percentage}\t {virus_name}\t {mortality_rate}\t \n")
-            file.write("______________given_stats________________\n")
-            file.write(f"""\n
-                   Population Size: {pop_size},
-            vaccination Percentage: {vacc_percentage*100}%,
-                 Name of the virus: {virus_name},
-           Mortality rate of virus: {mortality_rate*100}%,
-  basic reproduction rate of virus: {basic_repro_num*100}%
-                        \n""")
-            file.write("_____________________________________________")
-            file.close()
+        log_file = open(self.file_name, 'w+')
+        log_file.write("_____________Metadata_File_______________\n")
+        log_file.write(f"{pop_size}\t {vacc_percentage}\t {virus_name}\t {mortality_rate}\t \n")
+        log_file.write("______________given_stats________________\n")
+        log_file.write(f"""\n
+                Population Size: {pop_size},
+        vaccination Percentage: {vacc_percentage*100}%,
+                Name of the virus: {virus_name},
+        Mortality rate of virus: {mortality_rate*100}%,
+basic reproduction rate of virus: {basic_repro_num*100}%
+                    \n""")
+        log_file.write("_____________________________________________\n")
+        log_file.close()
 
 
         
@@ -47,21 +47,17 @@ class Logger(object):
         # TODO: Finish this method. Think about how the booleans passed (or not passed)
         # represent all the possible edge cases. Use the values passed along with each person,
         # along with whether they are sick or vaccinated when they interact to determine
-        # exactly what happened in the interaction and create a String, and write to your logfile.
-        with open(self.file_name, 'a') as file:
-            file.write("______________\n")
-            if did_infect == False and random_person_vacc == True and random_person_inf == False:
-                file.write(f"Neither {person._id} or {random_person._id} is sick because neither was infected.\n")
-            elif did_infect == False and random_person_vacc == False and random_person_inf == False:
-                file.write(f"{person._id} does not infect {random_person._id} becasue the chances of getting sick were too low. \n")
-            elif random_person_inf == True and did_infect == False:
-                file.write(f"{person._id} does not infect {random_person._id} because they were already sick. \n")
-            elif did_infect == True and random_person_vacc == True:
-                file.write(f"{random_person._id} does not gets infected by {person._id} because they were vaccinated.\n")
-            elif did_infect == True:
-                file.write(f"{person._id} infects {random_person._id} because they werent vaccinated\n")
-            file.write("________________\n")
-            file.close()
+        # exactly what happened in the interaction and create a String, and write to your loglog_file.
+        log_file = open(self.file_name, 'a+') 
+        if did_infect == False and random_person_vacc == False and random_person_inf == False:
+            log_file.write(f"{person._id} does not infect {random_person._id} becasue the chances of getting sick were too low. \n")
+        elif random_person_inf == True and did_infect == False and random_person_vacc == False:
+            log_file.write(f"{person._id} does not infect {random_person._id} because they were already sick. \n")
+        elif did_infect == True and random_person_vacc == True:
+            log_file.write(f"{random_person._id} does not gets infected by {person._id} because they were vaccinated.\n")
+        elif did_infect == True:
+            log_file.write(f"{person._id} infects {random_person._id} because they werent vaccinated\n")
+        log_file.close()
         
 
     def log_infection_survival(self, person, did_die_from_infection):
@@ -75,11 +71,11 @@ class Logger(object):
         # should be False.  Otherwise, did_die_from_infection should be True.
         # Append the results of the infection to the logfile
         
-        with open(self.file_name, 'a') as file:
-            if did_die_from_infection == True:
-                file.write(f"{person._id} died from the infection. ")
-            else:
-                file.write(f"{person._id} survived the infection")
+        log_file = open(self.file_name, 'a+')
+        if did_die_from_infection == False:
+            log_file.write(f"{person._id} died from the infection. \n")
+        else:
+            log_file.write(f"{person._id} survived the infection\n")
 
     def log_time_step(self, time_step_number, sim_data):
         ''' STRETCH CHALLENGE DETAILS:
@@ -105,11 +101,13 @@ class Logger(object):
         init_infected = sim_data.total_infected
         newly_infected = sim_data.total_infected - init_infected 
 
-        with open(self.file_name, 'a') as file: 
-            file.write(f"Time step {time_step_number} has ended, beginning time step {time_step_number + 1}\n")
-            file.write(f"number of people Infected: {newly_infected}\n")
-            file.write(f"Newly Dead: {newly_dead}\n")
-            file.write(f"Total Dead: {sim_data.total_dead}\n")
-            file.write(f"Total Infected: {sim_data.total_infected}\n")
+        log_file = open(self.file_name, 'a+') 
+        log_file.write(f"\nTime step {time_step_number} has ended, beginning time step {time_step_number + 1}\n")
+        log_file.write(f"number of people Infected: {newly_infected}\n")
+        log_file.write(f"Newly Dead: {newly_dead}\n")
+        log_file.write(f"Total Dead: {sim_data.total_dead}\n")
+        log_file.write(f"Total Infected: {sim_data.total_infected}\n")
+        log_file.write(f"total Vaccinated: {sim_data.total_vacc}\n")
+        log_file.write(f"total pop alive: {sim_data.pop_size - sim_data.total_dead}\n\n")
 
 
