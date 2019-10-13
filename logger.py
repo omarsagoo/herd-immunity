@@ -102,12 +102,12 @@ basic reproduction rate of virus: {basic_repro_num*100}%
         newly_infected = sim_data.total_infected - init_infected 
 
         log_file = open(self.file_name, 'a+') 
-        log_file.write(f"\nTime step {time_step_number} has ended, beginning time step {time_step_number + 1}\n")
-        log_file.write(f"number of people Infected: {newly_infected}\n")
-        log_file.write(f"Newly Dead: {newly_dead}\n")
-        log_file.write(f"Total Dead: {sim_data.total_dead}\n")
-        log_file.write(f"Total Infected: {sim_data.total_infected}\n")
-        log_file.write(f"total Vaccinated: {sim_data.total_vacc}\n")
-        log_file.write(f"total pop alive: {sim_data.pop_size - sim_data.total_dead}\n\n")
+        log_file.write(f"\nTime step {time_step_number} has ended, beginning time step {time_step_number + 1} ")
+        log_file.write(f"number of people Infected: {newly_infected} ")
+        log_file.write(f"Newly Dead: {newly_dead} ")
+        log_file.write(f"Total Dead: {sim_data.total_dead} ")
+        log_file.write(f"Total Infected: {sim_data.total_infected} ")
+        log_file.write(f"total Vaccinated: {sim_data.total_vacc} ")
+        log_file.write(f"total pop alive: {sim_data.pop_size - sim_data.total_dead}")
 
 

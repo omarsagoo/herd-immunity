@@ -30,20 +30,13 @@ class Simulation(object):
         All arguments will be passed as command-line arguments when the file is run.
         HINT: Look in the if __name__ == "__main__" function at the bottom.
         '''
-        # TODO: Create a Logger object and bind it to self.logger.
-        # Remember to call the appropriate logger method in the corresponding parts of the simulation.
-        # TODO: Call self._create_population() and pass in the correct parameters.
-        # Store the array that this method will return in the self.population attribute.
-        # TODO: Store each newly infected person's ID in newly_infected attribute.
-        # At the end of each time step, call self._infect_newly_infected()
-        # and then reset .newly_infected back to an empty list.
+
         self.infected_pop = []
         self.dead = []
         self.vacc_pop = []
         self.norm_pop = []
         self.pop_size = pop_size 
         self.pop_size_init = pop_size
-        self.next_person_id = 0 
         self.virus = virus 
         self.initial_infected = initial_infected 
         self.total_infected = initial_infected 
@@ -89,8 +82,6 @@ class Simulation(object):
             
         return population
 
-        def test_create_population():
-            assert Population()
         
 
     def _simulation_should_continue(self):
@@ -151,7 +142,6 @@ class Simulation(object):
                 increment interaction counter by 1.
             '''
         total_inf = self.total_infected_list()
-        print(len(total_inf))
         for person in total_inf:
             # print(len(total_inf))
             if person.is_alive == True and person.infection:
